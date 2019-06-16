@@ -1,0 +1,6 @@
+framework module Pods_Kacorie {
+  umbrella header "Pods-Kacorie-umbrella.h"
+
+  export *
+  module * { export * }
+}
