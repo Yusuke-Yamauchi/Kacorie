@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Kacorie/Pods-Kacorie-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DefaultsKit/DefaultsKit.framework
+${BUILT_PRODUCTS_DIR}/Hero/Hero.framework
+${BUILT_PRODUCTS_DIR}/IBAnimatable/IBAnimatable.framework
+${BUILT_PRODUCTS_DIR}/Material/Material.framework
+${BUILT_PRODUCTS_DIR}/Motion/Motion.framework
